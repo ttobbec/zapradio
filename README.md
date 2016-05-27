@@ -57,4 +57,7 @@ Se alguém quiser levar uma rádio adiante, por favor fique à
 vontade para usar a aba de issues deste repositório para se
 apresentar, pedir ouvintes, fazer anúncios, tirar dúvidas,
 enfim. Por favor, use-o e honre-o como espaço público :)
+
+Se achar algum typo mande pull-request, senão chama uma
+issue antes pfv? Obrigado.
 ```
