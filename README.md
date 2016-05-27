@@ -5,6 +5,7 @@ Crie sua rádio comunitária, faça jograis de leitura de livro com sua família
 ######
  Zaprádio
 ######
+
 * faça um spin-off deste repositório (aka 'fork' --"saúde!").
 * converse com +1 pessoa antes que queira fazer isso com você. tudo começa com +1.
 (* se vc tiver sorte, pode contar com aquela pessoa que sempre topa ser o seu +1 para um novo experimento de zapgrupo.)
@@ -19,6 +20,7 @@ Crie sua rádio comunitária, faça jograis de leitura de livro com sua família
 ######
 Jogral do livro (qualquer texto, música ou sequência de sons; chame de "ensaio" e veja o que acontece)
 ######
+
 
 * monte um grupo como acima. escolha o livro antes ou depois em consenso. 
 * mais fácil escolher antes e depois atrair interessados. encontre o +1 procurando consenso em particular.
