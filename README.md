@@ -50,6 +50,12 @@ Jogral do livro (qualquer texto, música ou sequência de sons;
   seguindo o texto começa dali e grava o quanto quiser
 
 ######
+Profissionalizando
+######
+
+* um microfone profissional usb pode ser usado em qualquer computador onde o seu celular funcione com o browser do computador via whatsapp web (web.whatsapp.com). posso explicar com bastante paciência sem conhecimento prévio para quem quiser ajuda. por favor use as issues.
+
+######
 Email/fórum
 ######
 
